@@ -18,8 +18,8 @@ npx creat-react-app myappname //no Capitalized name
 * https://www.uidesigndaily.com/
 
 ## Useful online course
-  React.js Essential Training  (LinkedIn learning, by Eve Porcello)
-  https://reactrouter.com
+  * React.js Essential Training  (LinkedIn learning, by Eve Porcello)
+  * https://reactrouter.com
   * FreeCodeCamp React Projects - Complete Course  https://www.youtube.com/watch?v=a_7Z7C_JCyo
   
 ## Delpoy App on netlify
