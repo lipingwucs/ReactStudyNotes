@@ -19,6 +19,15 @@ npx creat-react-app myappname //no Capitalized name
 ## Useful online course
   React.js Essential Training  (LinkedIn learning, by Eve Porcello)
   https://reactrouter.com
+  
+## Delpoy App on netlify
+npm run build
+npm install -g serve
+serve -s build
+
+got to netlify website
+drag the folder of build to netlify
+
 ## 
 * Destructuring arrays and objects
 * import photos
