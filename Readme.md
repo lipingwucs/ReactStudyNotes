@@ -10,7 +10,7 @@ npm -v
 npx creat-react-app myappname //no Capitalized name
 
 ##  Tools
-* Extension  - React Developer Tools for Chrome, Firefox or Edge
+* Extension  - *React Developer Tools* for Chrome, Firefox or Edge
 * VS code
 * React-Code Sandbox(Online IDE) https://codesandbox.io/s/react-new?file=/src/App.js
 * https://babeljs.io/  click  *try it out*
