@@ -14,6 +14,7 @@ npx creat-react-app myappname //no Capitalized name
 * VS code
 * React-Code Sandbox(Onlien IDE) https://codesandbox.io/s/react-new?file=/src/App.js
 * https://babeljs.io/  click  *try it out*
+* www.netlify.com   deploy your app through netlify
 
 ## Useful online course
   React.js Essential Training  (LinkedIn learning, by Eve Porcello)
