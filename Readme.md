@@ -15,10 +15,12 @@ npx creat-react-app myappname //no Capitalized name
 * React-Code Sandbox(Online IDE) https://codesandbox.io/s/react-new?file=/src/App.js
 * https://babeljs.io/  click  *try it out*
 * www.netlify.com   deploy your app through **netlify**
+* https://www.uidesigndaily.com/
 
 ## Useful online course
   React.js Essential Training  (LinkedIn learning, by Eve Porcello)
   https://reactrouter.com
+  * FreeCodeCamp React Projects - Complete Course  https://www.youtube.com/watch?v=a_7Z7C_JCyo
   
 ## Delpoy App on netlify
 npm run build
