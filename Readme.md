@@ -44,7 +44,7 @@ drag the folder of build to netlify
 * package-lock.json: records the exact version of each installed package which allows you to re-install them. Future installs will be able to build an identical dependency tree.
 * package.json: records the minimum version you app needs. If you update the versions of a particular package, the change is not going to be reflected here.
 <br/>
-*  manifest.json ?
+* manifest.json ?
  It's a Web App Manifest that describes your application and it's used by e.g. mobile phones if a shortcut is added to the homescreen.
 
 
