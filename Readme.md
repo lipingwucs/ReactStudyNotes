@@ -43,7 +43,9 @@ drag the folder of build to netlify
 * The package.json is used for more than dependencies - like defining project properties, description, author & license information, scripts, etc. The package-lock.json is solely used to lock dependencies to a specific version number.
 * package-lock.json: records the exact version of each installed package which allows you to re-install them. Future installs will be able to build an identical dependency tree.
 * package.json: records the minimum version you app needs. If you update the versions of a particular package, the change is not going to be reflected here.
-* manifest.json ?
+<br/>
+*  manifest.json ?
+ It's a Web App Manifest that describes your application and it's used by e.g. mobile phones if a shortcut is added to the homescreen.
 
 
 
