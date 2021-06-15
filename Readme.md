@@ -36,6 +36,16 @@ drag the folder of build to netlify
 * * import photos from public folder (root) which index.html file located
 * * import as a component as same folder as component
 
+## Questions 
+* Do you need both package-lock.json and package.json? No.
+* Do you need the package.json? Yes.
+* Can you have a project with only the package-lock.json? No.
+* The package.json is used for more than dependencies - like defining project properties, description, author & license information, scripts, etc. The package-lock.json is solely used to lock dependencies to a specific version number.
+* package-lock.json: records the exact version of each installed package which allows you to re-install them. Future installs will be able to build an identical dependency tree.
+* package.json: records the minimum version you app needs. If you update the versions of a particular package, the change is not going to be reflected here.
+* manifest.json ?
+
+
 
 
  
