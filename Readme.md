@@ -16,6 +16,7 @@ npx creat-react-app myappname //no Capitalized name
 * https://babeljs.io/  click  *try it out*
 * www.netlify.com   deploy your app through **netlify**
 * https://www.uidesigndaily.com/
+* React Icons:  npm install react-icons --save
 
 ## Useful online course
   * React.js Essential Training  (LinkedIn learning, by Eve Porcello)
